@@ -1,0 +1,11 @@
+# 构建产物
+*.exe
+*.bak
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+
+# 素材（体积较大，不入库）
+assets/
